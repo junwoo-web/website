@@ -14,8 +14,8 @@ url:              http://junwoo-web.github.io
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            http://junwoo-kim.github.io/
+  name:           'JUNWOO KIM'
+  url:            http://junwoo-web.github.io
 
 paginate:         5
 
@@ -23,4 +23,4 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           http://junwoo-kim.github.io/
+  repo:           http://junwoo-web.github.io
