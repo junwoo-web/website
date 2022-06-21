@@ -10,12 +10,12 @@ relative_permalinks: true
 title:            Hyde
 tagline:          'A Jekyll theme'
 description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://junwoo-web.github.io
+url:              https://junwoo-web.github.io
 baseurl:          /
 
 author:
   name:           'JUNWOO KIM'
-  url:            http://junwoo-web.github.io
+  url:            https://junwoo-web.github.io
 
 paginate:         5
 
@@ -23,4 +23,4 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           http://junwoo-web.github.io
+  repo:           https://junwoo-web.github.io
